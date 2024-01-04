@@ -34,10 +34,22 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img style="display: inline-block;" src="https://skillicons.dev/icons?i=Java,html,css,vscode,github,figma,git"/>
-    <img style="display: inline-block;" src="https://skillicons.dev/icons?i=Java,HTML,CSS"/><br>
+<div style="text-align: center;">
+    <img src="https://skillicons.dev/icon/java" alt="Java"/>
+    <img src="https://skillicons.dev/icon/html" alt="HTML"/>
+    <img src="https://skillicons.dev/icon/css" alt="CSS"/>
+    <img src="https://skillicons.dev/icon/vscode" alt="VSCode"/>
+    <img src="https://skillicons.dev/icon/github" alt="GitHub"/>
+    <img src="https://skillicons.dev/icon/figma" alt="Figma"/>
+    <img src="https://skillicons.dev/icon/git" alt="Git"/>
 </div>
+
+<div style="text-align: center;">
+    <img src="https://skillicons.dev/icon/java" alt="Java"/>
+    <img src="https://skillicons.dev/icon/html" alt="HTML"/>
+    <img src="https://skillicons.dev/icon/css" alt="CSS"/>
+</div>
+
 
 
 <br/>
